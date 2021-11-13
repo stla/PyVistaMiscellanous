@@ -19,3 +19,5 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/ToroidalHelix.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/HexagonalDuoprism.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/CRP.gif)
