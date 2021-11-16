@@ -21,3 +21,6 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/HexagonalDuoprism.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/CRP.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/flower_cyclides.gif)
+
