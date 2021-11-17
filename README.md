@@ -29,3 +29,6 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/Flower2.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/Flower3.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/HyperboloidTwoSheets.gif)
+
