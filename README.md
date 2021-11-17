@@ -24,3 +24,8 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/flower_cyclides.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/Flower1.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/Flower2.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/Flower3.gif)
