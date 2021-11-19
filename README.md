@@ -32,3 +32,4 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/HyperboloidTwoSheets.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/BarthDecic.png)
