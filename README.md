@@ -39,3 +39,8 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/CyclidoidalTubularHelix.png)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/CostaSurface.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/TetrahedronNet.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/ModularTessellation.gif)
+
