@@ -44,3 +44,4 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/ModularTessellation.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/TwentyRoses.gif)
