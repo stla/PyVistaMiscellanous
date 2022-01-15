@@ -16,7 +16,7 @@ grid = pv.StructuredGrid(X, Y, Z)
 mesh = grid.extract_geometry()
 mesh.point_data["distance"] = np.linalg.norm(mesh.points, axis=1)
 
-pltr = pv.Plotter(window_size = [512, 512], off_screen=True)
+pltr = pv.Plotter(window_size = [512, 512])#, off_screen=True)
 pltr.background_color = "#363940"
 pltr.add_mesh(
     mesh, smooth_shading=True, cmap="viridis", specular=15, 
@@ -25,4 +25,4 @@ pltr.add_mesh(
 pltr.set_focus([0.3, 0.5, 0])
 pltr.set_position([3, 3, 3])
 pltr.camera.zoom(1.4)
-pltr.show(screenshot="stiletto.png")
+pltr.show()#screenshot="stiletto.png")
