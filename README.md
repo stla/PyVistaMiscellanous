@@ -49,3 +49,6 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/Lattice.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/Togliatti_python.png)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/stiletto.png)
+
