@@ -52,3 +52,4 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/stiletto.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/SolidMobiusStripElectric.gif)
