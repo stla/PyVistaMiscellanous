@@ -57,3 +57,5 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/ICN5D_cage.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/trianguloidTrifoil.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/SartOctic72nodes.gif)
