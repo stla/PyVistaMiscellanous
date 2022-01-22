@@ -6,6 +6,7 @@ import quaternion
 
 
 def quaternion2hab(q):
+    "Quaternion to heading, attitude, bank"
     c = 180 / pi
     t = q.x*q.y + q.z*q.w
     if t > 0.499: # north pole

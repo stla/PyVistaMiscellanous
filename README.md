@@ -59,3 +59,6 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/trianguloidTrifoil.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/SartOctic72nodes.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/vanStraten.gif)
+
