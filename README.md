@@ -62,3 +62,5 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/vanStraten.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/decocube_metamorphosis.gif)
+
