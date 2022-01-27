@@ -67,3 +67,5 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/C8surface_metamorphosis.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/twentyHopfTori.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/pseudoHopfTorus.gif)
