@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
-from math import pi, atan2, asin, sqrt, cos, sin
+from math import pi
 import numpy as np
 import pyvista as pv
 
@@ -58,5 +58,5 @@ for i, t in enumerate(t_):
     pltr.show(screenshot=pngname)
 
 os.system(
-    "gifski --frames=zzpic*.png --fps=9 -o HopfTorusMovingFlag.gif"    
+    "gifski --frames=zzpic*.png --fps=11 -o HopfTorusMovingFlag.gif"    
 )

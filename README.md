@@ -73,3 +73,6 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/pseudoHopfTorus.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/HopfTorusMovingFlag.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/twentyHopfTori3.gif)
+
