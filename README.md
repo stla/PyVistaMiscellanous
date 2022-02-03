@@ -76,3 +76,4 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/twentyHopfTori3.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/ICN5D_cage2.gif)
