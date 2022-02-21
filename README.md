@@ -84,3 +84,5 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/ICN5D_two_balls_to_torus.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/ICN5D_two_tori_continuous_rotation.gif)
+
