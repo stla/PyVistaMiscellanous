@@ -90,3 +90,6 @@ Miscellanous 3D stuff with PyVista.
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/ICN5D_topo_changes.gif)
 
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/BlumCyclide.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/InvertedSolidMobiusStrip.gif)
