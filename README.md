@@ -93,3 +93,5 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/BlumCyclide.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/InvertedSolidMobiusStrip.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/PluckerSurface.gif)
