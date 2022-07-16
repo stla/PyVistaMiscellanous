@@ -47,7 +47,7 @@ grid = pv.StructuredGrid(X, Y, Z)
 
 
 # b varies from 0 to 2pi
-xi_ = np.linspace(0, 2*pi, 120, endpoint=False)
+xi_ = np.linspace(0, 2*pi, 150, endpoint=False)
 
 for i, xi in enumerate(xi_):
     values = f(X, Y, Z, 0, xi)
@@ -69,7 +69,7 @@ for i, xi in enumerate(xi_):
         mesh,
         smooth_shading=True,
         specular=15,
-        cmap="nipy_spectral",
+        color="chartreuse",
         log_scale=False,
         show_scalar_bar=False,
         flip_scalars=False,
