@@ -95,3 +95,8 @@ Miscellanous 3D stuff with PyVista.
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/InvertedSolidMobiusStrip.gif)
 
 ![](https://github.com/stla/PyVistaMiscellanous/raw/main/PluckerSurface.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/ICN5D_topo_changes_isoclinic.gif)
+
+![](https://github.com/stla/PyVistaMiscellanous/raw/main/ICN5D_topo_changes_isoclinic2.gif)
+
