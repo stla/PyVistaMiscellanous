@@ -102,7 +102,6 @@ grid.point_data["values"] = values.ravel(order="F")
 
 isosurf = grid.contour(isosurfaces = [0])
 mesh = isosurf.extract_geometry()
-#pngname = "zzpic%03d.png" % i
 pltr = pv.Plotter(window_size = [512, 512], off_screen=False)
 pltr.background_color = "#363940"
 pltr.set_focus(mesh.center)
