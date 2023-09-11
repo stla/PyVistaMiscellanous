@@ -109,7 +109,7 @@ pltr.set_focus(mesh.center)
 pltr.set_position((7, 4, 2))
 pltr.camera.zoom(1.3)
 pltr.add_mesh(
-    mesh, smooth_shading=True, specular=0.2, cmap="viridis", 
+    mesh, smooth_shading=True, specular=0.2, color="yellow", 
     log_scale=False, show_scalar_bar=False, flip_scalars=False 
 )
 pltr.show()
@@ -124,7 +124,7 @@ for i, t in enumerate(t_):
     pltr.set_position(satellite(t, 6))
     #pltr.camera.zoom(1)
     pltr.add_mesh(
-        mesh, smooth_shading=True, specular=0.2, cmap="turbo", 
+        mesh, smooth_shading=True, specular=0.2, color="yellow", 
         log_scale=False, show_scalar_bar=False, flip_scalars=False 
     )
     pltr.show(screenshot=pngname)
